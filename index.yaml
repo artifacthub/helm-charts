@@ -54,7 +54,7 @@ entries:
       version: 8.2.1
     description: Artifact Hub is a web-based application that enables finding, installing,
       and publishing Kubernetes packages.
-    digest: 5776c4c73b3328a8776ff8b44d969933eaecc118034194b49758243debf17a7b
+    digest: 23a722d788e4b453af74535625c02efbc0d77a851d63c0f0a4570d944d433f96
     home: https://artifacthub.io
     icon: https://artifacthub.github.io/helm-charts/logo.png
     keywords:
@@ -137,7 +137,7 @@ entries:
       version: 8.2.1
     description: Artifact Hub is a web-based application that enables finding, installing,
       and publishing Kubernetes packages.
-    digest: ba8cf9275f7b0629c5de778228701ff1af9d475f229db4358df35a3e34ac679e
+    digest: f93f7bd43ed9c4fe33bb79bac7ca72a466a3d1a2d850e7bc6b4f340202e1b9ce
     home: https://artifacthub.io
     icon: https://artifacthub.github.io/helm-charts/logo.png
     keywords:
@@ -232,7 +232,7 @@ entries:
       version: 8.2.1
     description: Artifact Hub is a web-based application that enables finding, installing,
       and publishing Kubernetes packages.
-    digest: c2ce6d53412fc8a97b0e8c7680d88b0cce9731f43517a6960fc0e129353efacc
+    digest: 3e9d40f863795f5cabab83beb54fcfb2cb62f1d56baad8fd17fb2fc97ccf1528
     home: https://artifacthub.io
     icon: https://artifacthub.github.io/helm-charts/logo.png
     keywords:
@@ -289,7 +289,7 @@ entries:
       version: 8.2.1
     description: Artifact Hub is a web-based application that enables finding, installing,
       and publishing Kubernetes packages.
-    digest: b61e4d41605377c1b24403f02c720222a42a5e87eb1d116460bbe64216051ca6
+    digest: 00309ec14be3b1fb77a2c2a3106d80e19d5a68f4af6310c770a4a65c5039d82e
     home: https://artifacthub.io
     icon: https://artifacthub.github.io/helm-charts/logo.png
     keywords:
@@ -345,7 +345,7 @@ entries:
       version: 8.2.1
     description: Artifact Hub is a web-based application that enables finding, installing,
       and publishing Kubernetes packages.
-    digest: fe251e360605ade2b92eab298f961fbabeac14138d6ab596b46f48219db34984
+    digest: b9e649a256ad02384fb188169bf773bbe21df0d9645629385443dffd0208e7fb
     home: https://artifacthub.io
     icon: https://artifacthub.github.io/helm-charts/logo.png
     keywords:
@@ -399,7 +399,7 @@ entries:
       version: 8.2.1
     description: Artifact Hub is a web-based application that enables finding, installing,
       and publishing Kubernetes packages.
-    digest: 7ea14be701bd387bd10d63cbfc4804559b6d2a89dbe354d0389ca96cf79b35c0
+    digest: 1d21ab9f3e26197c3514a143bd7ec237380dd50b353b03e7a7347009f9300399
     home: https://artifacthub.io
     icon: https://artifacthub.github.io/helm-charts/logo.png
     keywords:
@@ -457,7 +457,7 @@ entries:
       version: 8.2.1
     description: Artifact Hub is a web-based application that enables finding, installing,
       and publishing Kubernetes packages.
-    digest: d6f62ece1df1fa3b97f293cdf00c8b501128cbfc6a5ac1a5abf321f2cbca926f
+    digest: f3f6efc6e84d02e7e5f0c20a42ecedd583fee43ad7e5d2644fc579f24402d937
     home: https://artifacthub.io
     icon: https://artifacthub.github.io/helm-charts/logo.png
     keywords:
@@ -520,7 +520,7 @@ entries:
       version: 8.2.1
     description: Artifact Hub is a web-based application that enables finding, installing,
       and publishing Kubernetes packages.
-    digest: 89631bb29da8805f152daeadee1e54deb62a1bb86d3fd9b4e7ed090abfaf2419
+    digest: 84373bc389cc26e31061be036cd8fa5ffea69b1726487a99eac135e9ae7aa3c4
     home: https://artifacthub.io
     icon: https://artifacthub.github.io/helm-charts/logo.png
     keywords:
@@ -576,7 +576,7 @@ entries:
       version: 8.2.1
     description: Artifact Hub is a web-based application that enables finding, installing,
       and publishing Kubernetes packages.
-    digest: 560150136851d9030ca0f96e207d5c20a410ec5f3a9f98ba121aabaf834028fc
+    digest: b628fbcf4fb5fa6fadef60c78b2a1aad0580468d13916200aee5ae5f9ff11977
     home: https://artifacthub.io
     icon: https://artifacthub.github.io/helm-charts/logo.png
     keywords:
@@ -630,7 +630,7 @@ entries:
       version: 8.2.1
     description: Artifact Hub is a web-based application that enables finding, installing,
       and publishing Kubernetes packages.
-    digest: e479d9595dece91ffdac8a0c189dbc6416b2e5f3a2a6efe34be7411177bf849d
+    digest: d5a1a94625adbb8dc29edcdddb740044dda1e1f30463077751e3b61079a8736d
     home: https://artifacthub.io
     icon: https://artifacthub.github.io/helm-charts/logo.png
     keywords:
@@ -689,7 +689,7 @@ entries:
       version: 8.2.1
     description: Artifact Hub is a web-based application that enables finding, installing,
       and publishing Kubernetes packages.
-    digest: 233dfa5ecc084d105900214fdf8b40d80539d745168cf939cf8ef33850945955
+    digest: fad7011fb7b4b3b3431160ccb067214cf14635219905c4bc09c338e3888a9440
     home: https://artifacthub.io
     icon: https://artifacthub.github.io/helm-charts/logo.png
     keywords:
@@ -744,7 +744,7 @@ entries:
       version: 8.2.1
     description: Artifact Hub is a web-based application that enables finding, installing,
       and publishing Kubernetes packages.
-    digest: 084a7767edcc5e8516bbda4be4ee04f78af1d3542215086f73bde36135b79bb2
+    digest: 4c42092d5c74418fccb103bfc42932b8280df07630df77066da5429cd9f3c183
     home: https://artifacthub.io
     icon: https://artifacthub.github.io/helm-charts/logo.png
     keywords:
@@ -802,7 +802,7 @@ entries:
       version: 8.2.1
     description: Artifact Hub is a web-based application that enables finding, installing,
       and publishing Kubernetes packages.
-    digest: 01a91841d3537990835ebf26d976f5a37dbd170045bc701e6fe3c66e154dff2d
+    digest: e23dad6672c2f44155cdaae7b4a199b0cb0c15a1ae692075f7aed7309eed12c7
     home: https://artifacthub.io
     icon: https://artifacthub.github.io/helm-charts/logo.png
     keywords:
@@ -854,7 +854,7 @@ entries:
       version: 8.2.1
     description: Artifact Hub is a web-based application that enables finding, installing,
       and publishing Kubernetes packages.
-    digest: 534045729314734be98221129342858ba198bf075a6c36f7b944eaf14839571a
+    digest: da173584c92e3bbce756c0086e351a826630922eeab66438ccb9b193cb555681
     home: https://artifacthub.io
     icon: https://artifacthub.github.io/helm-charts/logo.png
     keywords:
@@ -906,7 +906,7 @@ entries:
       version: 8.2.1
     description: Artifact Hub is a web-based application that enables finding, installing,
       and publishing Kubernetes packages.
-    digest: 81a166976e4d00ba11c54aab9367d66c7d8a1067070775c2712a24d13c1605a2
+    digest: 4339547f3050007f7c21feff56197f35af6118aea5a2788da1deacaf6bcaaca1
     home: https://artifacthub.io
     icon: https://artifacthub.github.io/helm-charts/logo.png
     keywords:
@@ -955,7 +955,7 @@ entries:
       version: 8.2.1
     description: Artifact Hub is a web-based application that enables finding, installing,
       and publishing Kubernetes packages.
-    digest: fae1aac7b3ab10934aabe9dedf8a839845f69208ded03e44324791e9858bd899
+    digest: 318627240b179d5c95c9577cb6dc5b8a2837201a074c7c393081db8cc17c8f48
     home: https://artifacthub.io
     icon: https://artifacthub.github.io/helm-charts/logo.png
     keywords:
@@ -996,7 +996,7 @@ entries:
       version: 8.2.1
     description: Artifact Hub is a web-based application that enables finding, installing,
       and publishing Kubernetes packages.
-    digest: fa3b57baeba2ad310124c14a5d447f990a763c5d241aa3cd94e467b4f4a66f4f
+    digest: afcd8cd6d5bb36ec0ee077f9e5ce53afa3faf83550a46ee7751b3a2011f34435
     home: https://artifacthub.io
     icon: https://artifacthub.github.io/helm-charts/logo.png
     keywords:
@@ -1036,7 +1036,7 @@ entries:
       version: 8.2.1
     description: Artifact Hub is a web-based application that enables finding, installing,
       and publishing Kubernetes packages.
-    digest: 65fc6c7508fa027f516b431db8b722d0917f514a40559759002b907d206664d6
+    digest: 6058a6632ddd88fc94bbe0d441f28022051ff22b3323959040b4d242a65ed46f
     home: https://artifacthub.io
     icon: https://artifacthub.github.io/helm-charts/logo.png
     keywords:
@@ -1075,7 +1075,7 @@ entries:
       version: 8.2.1
     description: Artifact Hub is a web-based application that enables finding, installing,
       and publishing Kubernetes packages.
-    digest: cc53f7ae939841b4c148c1899b75882755fc78cb1ab1bc5822fb1988bc08cdf4
+    digest: 40332a576de0d6376df05c11da78e52f5eed0d0ab468773b46ad4bd1b4fc88e7
     home: https://artifacthub.io
     icon: https://artifacthub.github.io/helm-charts/logo.png
     keywords:
@@ -1116,7 +1116,7 @@ entries:
       version: 8.2.1
     description: Artifact Hub is a web-based application that enables finding, installing,
       and publishing Kubernetes packages.
-    digest: fb7e17e4709155e2c319537dbbae08f73895b840ff35ec2ad23a0cdec716226b
+    digest: 15f581075acef4d94ca78190878676443840b40454c7fbdcc41d19d0826e603c
     home: https://artifacthub.io
     icon: https://artifacthub.github.io/helm-charts/logo.png
     keywords:
@@ -1155,7 +1155,7 @@ entries:
       version: 8.2.1
     description: Artifact Hub is a web-based application that enables finding, installing,
       and publishing Kubernetes packages.
-    digest: 84c9ff6875164ece05754190e2d4465f728f9dec5b9140d601d7954d287b0f35
+    digest: ce6e901f7a6686f5368843bf0d1682caee62005c2e6f5e3d586cd15832e53abd
     home: https://artifacthub.io
     icon: https://artifacthub.github.io/helm-charts/logo.png
     keywords:
@@ -1173,4 +1173,4 @@ entries:
     urls:
     - https://artifacthub.github.io/helm-charts/artifact-hub-0.2.0.tgz
     version: 0.2.0
-generated: "2021-08-17T08:54:50.786384+02:00"
+generated: "2021-08-17T13:18:39.163629+02:00"
