@@ -4,6 +4,123 @@ entries:
   - annotations:
       artifacthub.io/changes: |
         - kind: added
+          description: Support for kagent.dev agents
+          links:
+            - name: GitHub Issue
+              url: https://github.com/artifacthub/hub/issues/4374
+        - kind: added
+          description: Display app version in versions modal
+        - kind: added
+          description: Allow setting extra env vars from chart
+        - kind: added
+          description: FAQ section to the documentation
+        - kind: changed
+          description: Improve versions table in modal
+        - kind: changed
+          description: Set user agent header in outgoing requests
+        - kind: changed
+          description: Upgrade chart postgresql dependency
+        - kind: changed
+          description: Bump Alpine to 3.22.2
+        - kind: changed
+          description: Bump Go to 1.25.3
+        - kind: changed
+          description: Bump Trivy to 0.67.2
+        - kind: changed
+          description: Bump OPM to 1.60.0
+        - kind: changed
+          description: Upgrade backend and frontend dependencies
+        - kind: fixed
+          description: Ignore parameterized images in Tekton packages
+        - kind: fixed
+          description: Issue with data labels on bar charts
+      artifacthub.io/containsSecurityUpdates: "true"
+      artifacthub.io/images: |
+        - name: db-migrator
+          image: artifacthub/db-migrator:v1.22.0
+        - name: hub
+          image: artifacthub/hub:v1.22.0
+        - name: tracker
+          image: artifacthub/tracker:v1.22.0
+        - name: scanner
+          image: artifacthub/scanner:v1.22.0
+        - name: trivy
+          image: aquasec/trivy:0.67.2
+      artifacthub.io/links: |
+        - name: source
+          url: https://github.com/artifacthub/hub
+        - name: support
+          url: https://github.com/artifacthub/hub/issues
+      artifacthub.io/screenshots: |
+        - title: Home page
+          url: https://artifacthub.github.io/hub/screenshots/screenshot1.jpg
+        - title: Packages search
+          url: https://artifacthub.github.io/hub/screenshots/screenshot2.jpg
+        - title: Package details
+          url: https://artifacthub.github.io/hub/screenshots/screenshot3.jpg
+        - title: Security report
+          url: https://artifacthub.github.io/hub/screenshots/screenshot4.jpg
+        - title: Values schema
+          url: https://artifacthub.github.io/hub/screenshots/screenshot5.jpg
+        - title: Changelog
+          url: https://artifacthub.github.io/hub/screenshots/screenshot6.jpg
+    apiVersion: v2
+    appVersion: 1.22.0
+    created: "2025-10-21T10:35:14.256743282Z"
+    dependencies:
+    - condition: postgresql.enabled
+      name: postgresql
+      repository: https://charts.bitnami.com/bitnami
+      version: 18.0.15
+    description: Artifact Hub is a web-based application that enables finding, installing,
+      and publishing Cloud Native packages.
+    digest: 7ed7dbd80f2bdbc6d2ef05ecd50600dcf6bcc7cb687be776cec76744ce76df0a
+    home: https://artifacthub.io
+    icon: https://artifacthub.github.io/helm-charts/logo.png
+    keywords:
+    - kubernetes
+    - helm
+    - falco
+    - opa
+    - olm
+    - tinkerbell actions
+    - krew
+    - tekton
+    - keda scalers
+    - coredns
+    - keptn
+    - containers images
+    - kubewarden
+    - gatekeeper
+    - kyverno
+    - knative
+    - backstage
+    - argo
+    - kubearmor
+    - kcl
+    - headlamp
+    - inspektor gadget
+    - meshery
+    - opencost
+    - radius
+    - bootable containers
+    - kagent
+    kubeVersion: '>= 1.19.0-0'
+    maintainers:
+    - email: tegioz@icloud.com
+      name: Sergio
+    - email: cynthiasg@icloud.com
+      name: Cintia
+    - email: matt@mattfarina.com
+      name: Matt
+    name: artifact-hub
+    type: application
+    urls:
+    - https://artifacthub.github.io/helm-charts/artifact-hub-1.22.0.tgz
+    version: 1.22.0
+  - annotations:
+      artifacthub.io/changes: |
+        - kind: added
           description: Support for Bootable containers images
         - kind: added
           description: Deletion protection experimental feature
@@ -3361,4 +3478,4 @@ entries:
     urls:
     - https://artifacthub.github.io/helm-charts/artifact-hub-0.2.0.tgz
     version: 0.2.0
-generated: "2025-04-24T07:33:09.194618877Z"
+generated: "2025-10-21T10:35:14.249618905Z"
